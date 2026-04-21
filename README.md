@@ -49,9 +49,11 @@ Fields are calculated at staggered time and space intervals ($n+1/2, k+1/2$) to 
 
 ## Implemented Physical Models
 - **Maxwell Equations:** Propagation of electromagnetic fields in 1D/2D.
+  ![evolution of a Gaussian pulse with periodic conditions](Electromagnetic Waves/PulsoGaussiano_CF_Periodicas.gif)
 - **Navier-Stokes Equations:** Simulation of incompressible fluid flow (Poisson pressure solver).
 - **Heat Equation:** Thermal diffusion in various geometries.
 - **Cavity Flow:** Modeling fluid dynamics within constrained boundaries.
+  ![Flow in a cavity](Cavity Flow/python/CavityFlow.gif)
 
 ## Examples
 
