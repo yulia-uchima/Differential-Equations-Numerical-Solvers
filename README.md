@@ -53,6 +53,12 @@ Fields are calculated at staggered time and space intervals ($n+1/2, k+1/2$) to 
 - **Heat Equation:** Thermal diffusion in various geometries.
 - **Cavity Flow:** Modeling fluid dynamics within constrained boundaries.
 
+## Examples
+
+![evolution of a Gaussian pulse with periodic conditions](Electromagnetic Waves/PulsoGaussiano_CF_Periodicas.gif)
+
+![Flow in a cavity](Cavity Flow/python/CavityFlow.gif)
+
 ## Project Structure
 The code is organized to separate the numerical logic from the physical configuration:
 
@@ -65,8 +71,4 @@ Differential-Equations-Numerical-Solvers/
 └── README.md
 ```
 
-## Examples
 
-![evolution of a Gaussian pulse with periodic conditions](Electromagnetic Waves/PulsoGaussiano_CF_Periodicas.gif)
-
-![Flow in a cavity](Cavity Flow/python/CavityFlow.gif)
