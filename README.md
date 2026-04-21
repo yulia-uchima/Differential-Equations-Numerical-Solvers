@@ -63,3 +63,10 @@ Differential-Equations-Numerical-Solvers/
 ├── Python/             # Scripts for data visualization and plotting
 ├── docs/               # Technical notes and derivations
 └── README.md
+```
+
+## Examples
+
+![evolution of a Gaussian pulse with periodic conditions](Electromagnetic Waves/PulsoGaussiano_CF_Periodicas.gif)
+
+![Flow in a cavity](Cavity Flow/python/CavityFlow.gif)
